@@ -13,6 +13,9 @@
   <a href="mailto:gudduhh.yadav@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/guddu-yadav-633717297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -23,23 +26,23 @@
 ☁️ Minor Specialization in Cloud Computing  
 📍 India  
 
-I am a computer science student preparing for **FAANG-level software engineering roles**.  
-My focus is on **strong fundamentals, clean system design, scalable backend development, and cloud-native architectures**.
+I am a computer science student focused on **strong fundamentals, scalable backend systems, and cloud-native development**.  
+My long-term goal is to grow into an engineer capable of meeting the bar of top-tier product companies (including FAANG-level organizations).
 
-I believe in:
-- Writing readable, maintainable code  
-- Understanding systems deeply, not just tools  
-- Learning by building real projects  
+I value:
+- Clear thinking over shortcuts  
+- Fundamentals over hype  
+- Learning by building real systems  
 
 ---
 
 ## Engineering Focus
 
-- Data Structures & Algorithms (Foundations → Advanced)
-- Backend Development & APIs
-- Cloud Infrastructure & Distributed Systems (Beginner → Intermediate)
-- DevOps Fundamentals & CI/CD
-- System Design (Low-level & Intro High-level)
+- Data Structures & Algorithms  
+- Backend Development & APIs  
+- Cloud Infrastructure & Distributed Systems  
+- DevOps Fundamentals & CI/CD  
+- System Design (Foundational level)  
 
 ---
 
@@ -82,13 +85,13 @@ I believe in:
 ## Selected Projects
 
 • **CloudBuzz – Quiz Game Platform**  
-  Cloud-based quiz application with authentication, real-time scoring, and leaderboard support  
+  Cloud-based quiz application with authentication, real-time scoring, and leaderboard features  
 
 • **Cloud Polling Application**  
-  Real-time polling system using Firebase, authentication, and live result visualization  
+  Real-time polling system with Firebase authentication and live result visualization  
 
 • **Complaint & Feedback Management System**  
-  Cloud-hosted backend system for managing user complaints and feedback  
+  Cloud-hosted backend platform for managing user complaints and feedback  
 
 • **Real-Time Chat Application**  
   Scalable messaging application using cloud services  
@@ -98,17 +101,25 @@ I believe in:
 
 ---
 
-## Learning Roadmap (FAANG-Oriented)
+## Learning & Growth
 
-- Advanced Data Structures & Algorithms  
+- Advanced DSA and problem solving  
 - Backend scalability patterns  
 - Distributed systems fundamentals  
-- Cloud cost optimization & reliability  
-- System design interviews  
+- Cloud reliability & cost awareness  
+- System design interview preparation  
 
 ---
 
-## GitHub Activity
+## Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gudduhhh&show_icons=true&theme=dark"/>
