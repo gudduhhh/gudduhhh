@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="140" style="border-radius:50%"/>
+  <img src="https://avatars.githubusercontent.com/gudduhhh" width="150" style="border-radius:50%" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NnZzR0Z2VqY3h6Y3N1aDV1a3FzY2p2eDg0bXU4dG0zZGRrZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="80"/>
 </p>
 
 <h1 align="center">Guddu Yadav</h1>
@@ -19,28 +23,28 @@
 
 ---
 
-## About
+## Profile
 
 🎓 B.Tech Computer Science Engineering (6th Semester)  
 ☁️ Minor Specialization in Cloud Computing  
 📍 India  
 
-Motivated CSE student focused on cloud-native application development, backend systems, and DevOps practices.  
-I enjoy building practical projects and understanding how scalable systems work in real-world environments.
+Focused on cloud-native systems, backend development, and DevOps fundamentals.  
+I like building practical projects and learning how scalable systems work behind the scenes.
 
 ---
 
-## Areas of Focus
+## Interests & Focus
 
 - Cloud Architecture & Services  
 - Backend & API Development  
-- DevOps Automation & CI/CD  
+- DevOps & Automation  
 - Databases & Data Modeling  
-- System Design Fundamentals  
+- System Design (Foundations)  
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -88,33 +92,33 @@ I enjoy building practical projects and understanding how scalable systems work 
 ## Projects
 
 • **CloudBuzz – Quiz Game Platform**  
-  Cloud-based quiz game with authentication, score tracking, and realtime interactions  
+  Cloud-based quiz game with authentication, realtime scores, and leaderboard  
 
 • **Cloud Polling Application**  
-  Realtime polling system using Firebase, authentication, and live result visualization  
+  Realtime polling system with authentication and live result visualization  
 
 • **Complaint & Feedback Management System**  
-  Cloud-hosted application for handling user complaints and feedback  
+  Cloud-hosted platform for managing user complaints and feedback  
 
 • **Real-Time Chat Application**  
-  Live messaging app using Firebase and cloud services  
+  Live messaging application using cloud services  
 
 • **CI/CD Pipeline Demo**  
-  Automated build and deployment pipeline using GitHub Actions and Docker  
+  Automated CI/CD pipeline using GitHub Actions and Docker  
 
 ---
 
-## Learning Roadmap
+## Fun Zone
 
-- Advanced Cloud Services  
-- Scalable Backend Architectures  
-- Container Orchestration  
-- Production-level CI/CD  
-- System Design Interviews  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="90"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F4dDk5YjB3aHVtM3ZlNXl3d2w4a2h4b2U3MHFhbm5vY3d3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="90"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl0aDN3YWV2MW93eWJ6NGp5cTBmN2JqZHBkM2Z2aHc5eDZyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4FGuhL4U2WyjdkaY/giphy.gif" width="90"/>
+</p>
 
 ---
 
-## GitHub Insights
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gudduhhh&show_icons=true&theme=dark"/>
