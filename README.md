@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="140" style="border-radius:50%"/>
+</p>
+
 <h1 align="center">Guddu Yadav</h1>
 <h3 align="center">Computer Science Engineering Student · Cloud Computing Minor</h3>
 
@@ -7,26 +11,32 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-Computing-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/Backend-Development-black?style=flat"/>
+  <img src="https://img.shields.io/badge/DevOps-Learning-orange?style=flat"/>
+</p>
+
 ---
 
-## Profile
+## About
 
 🎓 B.Tech Computer Science Engineering (6th Semester)  
 ☁️ Minor Specialization in Cloud Computing  
 📍 India  
 
-Focused on building scalable applications and learning modern cloud-native technologies.  
-Interested in backend systems, cloud architecture, and DevOps fundamentals.
+Motivated CSE student focused on cloud-native application development, backend systems, and DevOps practices.  
+I enjoy building practical projects and understanding how scalable systems work in real-world environments.
 
 ---
 
-## Core Interests
+## Areas of Focus
 
-- Cloud Infrastructure & Architecture  
-- Backend Development  
-- DevOps & CI/CD  
-- Distributed Systems (Beginner)  
-- Real-world Project Building  
+- Cloud Architecture & Services  
+- Backend & API Development  
+- DevOps Automation & CI/CD  
+- Databases & Data Modeling  
+- System Design Fundamentals  
 
 ---
 
@@ -68,23 +78,43 @@ Interested in backend systems, cloud architecture, and DevOps fundamentals.
 
 ---
 
-### Design & UI
+### UI & Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
 
 ---
 
-## Selected Projects
+## Projects
 
-• Cloud Polling Application (Firebase, Realtime DB, Auth, Charts)  
-• Complaint & Feedback Management System  
-• Real-Time Chat Application  
-• CI/CD Pipeline Demonstration using GitHub Actions & Docker  
+• **CloudBuzz – Quiz Game Platform**  
+  Cloud-based quiz game with authentication, score tracking, and realtime interactions  
+
+• **Cloud Polling Application**  
+  Realtime polling system using Firebase, authentication, and live result visualization  
+
+• **Complaint & Feedback Management System**  
+  Cloud-hosted application for handling user complaints and feedback  
+
+• **Real-Time Chat Application**  
+  Live messaging app using Firebase and cloud services  
+
+• **CI/CD Pipeline Demo**  
+  Automated build and deployment pipeline using GitHub Actions and Docker  
 
 ---
 
-## GitHub Activity
+## Learning Roadmap
+
+- Advanced Cloud Services  
+- Scalable Backend Architectures  
+- Container Orchestration  
+- Production-level CI/CD  
+- System Design Interviews  
+
+---
+
+## GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gudduhhh&show_icons=true&theme=dark"/>
