@@ -2,10 +2,6 @@
   <img src="https://avatars.githubusercontent.com/gudduhhh" width="150" style="border-radius:50%" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NnZzR0Z2VqY3h6Y3N1aDV1a3FzY2p2eDg0bXU4dG0zZGRrZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="80"/>
-</p>
-
 <h1 align="center">Guddu Yadav</h1>
 <h3 align="center">Computer Science Engineering Student · Cloud Computing Minor</h3>
 
@@ -16,35 +12,35 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-Computing-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/Backend-Development-black?style=flat"/>
-  <img src="https://img.shields.io/badge/DevOps-Learning-orange?style=flat"/>
+  <img src="https://img.shields.io/badge/Cloud_Computing-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/Backend_Development-black?style=flat"/>
+  <img src="https://img.shields.io/badge/DevOps_Foundations-orange?style=flat"/>
 </p>
 
 ---
 
-## Profile
+## About Me
 
 🎓 B.Tech Computer Science Engineering (6th Semester)  
 ☁️ Minor Specialization in Cloud Computing  
 📍 India  
 
-Focused on cloud-native systems, backend development, and DevOps fundamentals.  
-I like building practical projects and learning how scalable systems work behind the scenes.
+Motivated computer science student with a strong interest in **cloud technologies, backend development, and DevOps fundamentals**.  
+I focus on building real-world projects, understanding system behavior, and learning industry-relevant tools step by step.
 
 ---
 
-## Interests & Focus
+## What I’m Focused On
 
-- Cloud Architecture & Services  
-- Backend & API Development  
-- DevOps & Automation  
-- Databases & Data Modeling  
-- System Design (Foundations)  
+- Cloud-native application development  
+- Backend systems & APIs  
+- DevOps pipelines and automation  
+- Databases and data handling  
+- System design fundamentals (beginner level)  
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -55,7 +51,7 @@ I like building practical projects and learning how scalable systems work behind
 
 ---
 
-### Cloud Platforms
+### Cloud & Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
@@ -92,10 +88,10 @@ I like building practical projects and learning how scalable systems work behind
 ## Projects
 
 • **CloudBuzz – Quiz Game Platform**  
-  Cloud-based quiz game with authentication, realtime scores, and leaderboard  
+  Cloud-based quiz application with authentication, score tracking, and realtime interactions  
 
 • **Cloud Polling Application**  
-  Realtime polling system with authentication and live result visualization  
+  Realtime polling system with Firebase authentication and live result visualization  
 
 • **Complaint & Feedback Management System**  
   Cloud-hosted platform for managing user complaints and feedback  
@@ -104,21 +100,21 @@ I like building practical projects and learning how scalable systems work behind
   Live messaging application using cloud services  
 
 • **CI/CD Pipeline Demo**  
-  Automated CI/CD pipeline using GitHub Actions and Docker  
+  Automated build and deployment pipeline using GitHub Actions and Docker  
 
 ---
 
-## Fun Zone
+## Learning & Growth
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="90"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F4dDk5YjB3aHVtM3ZlNXl3d2w4a2h4b2U3MHFhbm5vY3d3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="90"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl0aDN3YWV2MW93eWJ6NGp5cTBmN2JqZHBkM2Z2aHc5eDZyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4FGuhL4U2WyjdkaY/giphy.gif" width="90"/>
-</p>
+- Exploring advanced cloud services  
+- Improving backend design patterns  
+- Understanding scalable architectures  
+- Hands-on DevOps workflows  
+- Preparing for internships & entry-level roles  
 
 ---
 
-## GitHub Activity
+## GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gudduhhh&show_icons=true&theme=dark"/>
