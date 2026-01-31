@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/gudduhhh" width="150" style="border-radius:50%" />
+  <img src="https://avatars.githubusercontent.com/gudduhhh" width="140" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Guddu Yadav</h1>
 <h3 align="center">Computer Science Engineering Student · Cloud Computing Minor</h3>
+
+<p align="center">
+  Aspiring Software Engineer · Cloud & Backend Focus
+</p>
 
 <p align="center">
   <a href="mailto:gudduhh.yadav@gmail.com">
@@ -11,32 +15,31 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud_Computing-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/Backend_Development-black?style=flat"/>
-  <img src="https://img.shields.io/badge/DevOps_Foundations-orange?style=flat"/>
-</p>
-
 ---
 
-## About Me
+## Overview
 
 🎓 B.Tech Computer Science Engineering (6th Semester)  
 ☁️ Minor Specialization in Cloud Computing  
 📍 India  
 
-Motivated computer science student with a strong interest in **cloud technologies, backend development, and DevOps fundamentals**.  
-I focus on building real-world projects, understanding system behavior, and learning industry-relevant tools step by step.
+I am a computer science student preparing for **FAANG-level software engineering roles**.  
+My focus is on **strong fundamentals, clean system design, scalable backend development, and cloud-native architectures**.
+
+I believe in:
+- Writing readable, maintainable code  
+- Understanding systems deeply, not just tools  
+- Learning by building real projects  
 
 ---
 
-## What I’m Focused On
+## Engineering Focus
 
-- Cloud-native application development  
-- Backend systems & APIs  
-- DevOps pipelines and automation  
-- Databases and data handling  
-- System design fundamentals (beginner level)  
+- Data Structures & Algorithms (Foundations → Advanced)
+- Backend Development & APIs
+- Cloud Infrastructure & Distributed Systems (Beginner → Intermediate)
+- DevOps Fundamentals & CI/CD
+- System Design (Low-level & Intro High-level)
 
 ---
 
@@ -51,7 +54,7 @@ I focus on building real-world projects, understanding system behavior, and lear
 
 ---
 
-### Cloud & Platforms
+### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
@@ -64,57 +67,48 @@ I focus on building real-world projects, understanding system behavior, and lear
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 ---
 
-### DevOps & Tools
+### DevOps & Tooling
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
 
 ---
 
-### UI & Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
-
----
-
-## Projects
+## Selected Projects
 
 • **CloudBuzz – Quiz Game Platform**  
-  Cloud-based quiz application with authentication, score tracking, and realtime interactions  
+  Cloud-based quiz application with authentication, real-time scoring, and leaderboard support  
 
 • **Cloud Polling Application**  
-  Realtime polling system with Firebase authentication and live result visualization  
+  Real-time polling system using Firebase, authentication, and live result visualization  
 
 • **Complaint & Feedback Management System**  
-  Cloud-hosted platform for managing user complaints and feedback  
+  Cloud-hosted backend system for managing user complaints and feedback  
 
 • **Real-Time Chat Application**  
-  Live messaging application using cloud services  
+  Scalable messaging application using cloud services  
 
-• **CI/CD Pipeline Demo**  
-  Automated build and deployment pipeline using GitHub Actions and Docker  
-
----
-
-## Learning & Growth
-
-- Exploring advanced cloud services  
-- Improving backend design patterns  
-- Understanding scalable architectures  
-- Hands-on DevOps workflows  
-- Preparing for internships & entry-level roles  
+• **CI/CD Pipeline Demonstration**  
+  Automated build, test, and deployment pipeline using GitHub Actions and Docker  
 
 ---
 
-## GitHub Insights
+## Learning Roadmap (FAANG-Oriented)
+
+- Advanced Data Structures & Algorithms  
+- Backend scalability patterns  
+- Distributed systems fundamentals  
+- Cloud cost optimization & reliability  
+- System design interviews  
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gudduhhh&show_icons=true&theme=dark"/>
