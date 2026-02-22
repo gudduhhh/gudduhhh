@@ -1,7 +1,7 @@
-<!-- PROFILE HEADER -->
+<!-- ================= PROFILE HEADER ================= -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/gudduhhh" width="160" style="border-radius:50%" />
+  <img src="https://avatars.githubusercontent.com/gudduhhh" width="170" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Guddu Yadav</h1>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gudduhhh&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=gudduhhh&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -22,21 +22,21 @@
 ☁️ Minor in Cloud Computing  
 📍 India  
 
-I am focused on mastering **strong fundamentals, backend systems, and cloud infrastructure**.
+Focused on building **robust backend systems, scalable architectures, and cloud-native solutions.**
 
 I believe in:
 
-- Clear thinking over shortcuts  
+- Strong fundamentals over shortcuts  
 - Systems thinking over copy-paste coding  
 - Consistency over motivation  
 - Learning by building real-world projects  
 
 ---
 
-# 🔁 DevOps Lifecycle
+# 🔁 DevOps Pipeline
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*YzKjHhM0XJ0XH8n8ePZxZw.png" width="600"/>
+  <img src="https://camo.githubusercontent.com/7dfd3dc8c3e794d86da83386abed047b961e5fdf6298ef07304abce8f10ddceb/68747470733a2f2f7777772e636f64656d6f74696f6e2e636f6d2f6d6167617a696e652f77702d636f6e74656e742f75706c6f6164732f323032302f30392f6465766f70732d31303234783532372e706e67" width="750"/>
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ I believe in:
 
 ---
 
-# 🛠 Languages & Technologies
+# 🛠 Tech Stack
 
 ## 👨‍💻 Programming
 <p>
@@ -64,22 +64,29 @@ I believe in:
 
 ---
 
-# 📌 Featured Projects
+# 🚀 My Work
 
-### 🔹 CloudBuzz – Quiz Platform  
-Cloud-based quiz application with authentication, scoring engine, and leaderboard.
+<p align="center">
+  <a href="https://github.com/gudduhhh?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-### 🔹 Cloud Polling System  
-Real-time polling app with Firebase authentication and live analytics.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gudduhhh&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+</p>
 
-### 🔹 Complaint & Feedback Management  
-Cloud-hosted backend system for complaint tracking.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudduhhh&layout=compact&theme=dark&hide_border=true" />
+</p>
 
-### 🔹 Real-Time Chat Application  
-Event-driven messaging system with real-time updates.
+---
 
-### 🔹 CI/CD Pipeline Demo  
-Dockerized application with automated deployment via GitHub Actions.
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gudduhhh&theme=dark&hide_border=true" />
+</p>
 
 ---
 
@@ -99,30 +106,8 @@ Dockerized application with automated deployment via GitHub Actions.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gudduhhh&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gudduhhh&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudduhhh&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=gudduhhh&color=6&icon=0"/>
 </p>
+
+<!-- ================= END ================= -->
