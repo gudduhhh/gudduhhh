@@ -1,117 +1,121 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/gudduhhh" width="140" style="border-radius:50%" />
-</p>
-
-<h1 align="center">Guddu Yadav</h1>
-<h3 align="center">Computer Science Engineering Student · Cloud Computing Minor</h3>
+<!-- PROFILE HEADER -->
 
 <p align="center">
-  Aspiring Software Engineer · Cloud & Backend Focus
+  <img src="https://avatars.githubusercontent.com/gudduhhh" width="160" style="border-radius:50%" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Guddu Yadav</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Cloud+%26+Backend+Enthusiast;DevOps+Learner;Building+Scalable+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gudduhhh&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 B.Tech Computer Science Engineering  
+☁️ Minor in Cloud Computing  
+📍 India  
+
+I am focused on mastering **strong fundamentals, backend systems, and cloud infrastructure**.
+
+I believe in:
+
+- Clear thinking over shortcuts  
+- Systems thinking over copy-paste coding  
+- Consistency over motivation  
+- Learning by building real-world projects  
+
+---
+
+# 🔁 DevOps Lifecycle
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*YzKjHhM0XJ0XH8n8ePZxZw.png" width="600"/>
+</p>
+
+<p align="center">
+  <b>Plan → Code → Build → Test → Release → Deploy → Monitor → Improve</b>
+</p>
+
+---
+
+# 🛠 Languages & Technologies
+
+## 👨‍💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs" />
+</p>
+
+## ☁️ Cloud & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,mysql,mongodb,sqlite,dynamodb" />
+</p>
+
+## ⚙ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,linux,bash" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+### 🔹 CloudBuzz – Quiz Platform  
+Cloud-based quiz application with authentication, scoring engine, and leaderboard.
+
+### 🔹 Cloud Polling System  
+Real-time polling app with Firebase authentication and live analytics.
+
+### 🔹 Complaint & Feedback Management  
+Cloud-hosted backend system for complaint tracking.
+
+### 🔹 Real-Time Chat Application  
+Event-driven messaging system with real-time updates.
+
+### 🔹 CI/CD Pipeline Demo  
+Dockerized application with automated deployment via GitHub Actions.
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:gudduhh.yadav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/guddu-yadav-633717297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/guddu-yadav-633717297">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/gudduhhh">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
 ---
 
-## Overview
+# 📊 GitHub Stats
 
-🎓 B.Tech Computer Science Engineering (6th Semester)  
-☁️ Minor Specialization in Cloud Computing  
-📍 India  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gudduhhh&show_icons=true&theme=dark&hide_border=true" />
+</p>
 
-I am a computer science student focused on **strong fundamentals, scalable backend systems, and cloud-native development**.  
-My long-term goal is to grow into an engineer capable of meeting the bar of top-tier product companies (including FAANG-level organizations).
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gudduhhh&theme=dark&hide_border=true" />
+</p>
 
-I value:
-- Clear thinking over shortcuts  
-- Fundamentals over hype  
-- Learning by building real systems  
-
----
-
-## Engineering Focus
-
-- Data Structures & Algorithms  
-- Backend Development & APIs  
-- Cloud Infrastructure & Distributed Systems  
-- DevOps Fundamentals & CI/CD  
-- System Design (Foundational level)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudduhhh&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 ---
 
-## Technical Skills
-
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-
----
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase)
-
----
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
-
----
-
-### DevOps & Tooling
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-
----
-
-## Selected Projects
-
-• **CloudBuzz – Quiz Game Platform**  
-  Cloud-based quiz application with authentication, real-time scoring, and leaderboard features  
-
-• **Cloud Polling Application**  
-  Real-time polling system with Firebase authentication and live result visualization  
-
-• **Complaint & Feedback Management System**  
-  Cloud-hosted backend platform for managing user complaints and feedback  
-
-• **Real-Time Chat Application**  
-  Scalable messaging application using cloud services  
-
-• **CI/CD Pipeline Demonstration**  
-  Automated build, test, and deployment pipeline using GitHub Actions and Docker  
-
----
-
-## Learning & Growth
-
-- Advanced DSA and problem solving  
-- Backend scalability patterns  
-- Distributed systems fundamentals  
-- Cloud reliability & cost awareness  
-- System design interview preparation  
-
----
-
-## Contribution Activity
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -119,22 +123,6 @@ I value:
 
 ---
 
-## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gudduhhh&show_icons=true&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gudduhhh&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudduhhh&layout=compact&theme=dark"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=gudduhhh&color=6"/>
+  <img src="https://visitcount.itsvg.in/api?id=gudduhhh&color=6&icon=0"/>
 </p>
