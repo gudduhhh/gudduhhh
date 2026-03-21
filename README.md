@@ -1,9 +1,5 @@
 <!-- ================= PROFILE HEADER ================= -->
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/gudduhhh" width="170" style="border-radius:50%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Guddu Yadav</h1>
 
 <p align="center">
