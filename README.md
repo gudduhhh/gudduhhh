@@ -1,5 +1,12 @@
 
 <!-- ====================== HERO ====================== -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Guddu%20Yadav&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cloud%20%26%20DevOps%20%26%20Backend%20Enthusiast&descAlignY=60&theme=tokyonight"
+    alt="Guddu Yadav Header"
+    width="100%"
+  />
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,40:1d4ed8,100:7dd3fc&text=Guddu%20Yadav&fontColor=ffffff&fontSize=48&animation=twinkling&fontAlignY=38&desc=Cloud%20%26%20DevOps%20%26%20Backend%20Enthusiast&descAlignY=60"/>
